@@ -27,16 +27,20 @@ nav {
 }
 
 section {
+    float: left;
     width: 495px;
-    height: 250px;
+    height: 240px;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
+    overflow: auto;
+    display: block;
+    clear: right;
 }
 
 article {
     color: #ebebeb;
     background: #777;
-    height: 250px;
+    height: 180px;
     margin: 10px;
     padding: 5px;
 }
@@ -47,18 +51,19 @@ div {
 h2, p{
     width: 300px;
     height: 30px;
-    padding: 20px;
-    margin: 20px;
+    padding: 15px;
+    margin: 10px;
     color: #777;
     background: #ebebeb;
 }
 
 aside {
-    float: right;
+    float: left;
     width: 35%;
-    height: 250px;
+    height: 240px;
     padding: 20px;
-    margin-left: 50px;
+    margin-left: 20px;
+    display: block;
 }
 
 footer {
