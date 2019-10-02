@@ -4,6 +4,6 @@ A simple wirefram mock up using html and css
 ## Usage
 - Clone to downlaod
 
-##Technologies Used
+## Technologies Used
 - HTML
 - CSS
